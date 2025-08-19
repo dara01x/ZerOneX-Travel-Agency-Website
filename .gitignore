@@ -1,0 +1,23 @@
+# Large video files (too big for GitHub)
+images/vid-1.mp4
+images/vid-4.mp4
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+npm-debug.log*
