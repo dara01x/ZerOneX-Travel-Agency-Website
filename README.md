@@ -25,8 +25,6 @@ A modern, responsive travel agency website showcasing advanced front-end web dev
 - **Font Awesome**: Icon library for visual elements
 - **Swiper.js**: Touch slider functionality
 
-> **Note**: Some large video files are excluded from the repository due to GitHub's file size limitations. The website includes multiple background videos for an immersive experience.
-
 
 
 ## 🎯 Sections Overview
